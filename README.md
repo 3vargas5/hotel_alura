@@ -17,5 +17,10 @@ Para instalar este proyecto se debe seguir estos pasos:
 - Clonar el repositorio desde GitHub o descargar el archivo ZIP
 - Importar el proyecto en el IDE de Java elegido
 
+## Licencias
+
+El código mostrado es en su mayoría provisto por Alura. Así que un gran agradecimiento a ellos por facilitarnos tan buenos códigos.
+
+
 
 
